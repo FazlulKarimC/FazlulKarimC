@@ -10,6 +10,10 @@
 
 - 🚀 Creator of PaperSight_AI: Next.js + Gemini platform turning PDFs into insights with 98% accuracy—no more coffee-fueled doc reading sessions.
 
+### Portfolio: **[fazlul.vercel.app](https://fazlul.vercel.app/)**
+
+### PaperSight AI: **[papersight.vercel.app](https://papersight.vercel.app/)**
+
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
