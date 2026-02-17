@@ -26,7 +26,7 @@ Currently deepening expertise in:
 
 ---
 
-## Production Projects
+## Projects
 
 ### PaperSight AI — Document Intelligence Platform
 AI-powered platform converting PDFs into interactive summaries.
@@ -73,13 +73,13 @@ Stack: Next.js, TypeScript, Prisma, PostgreSQL
 ## Technical Stack
 
 ### Languages
-TypeScript • JavaScript • Python • Java
+TypeScript • JavaScript • Python • Java • C/CPP
 
 ### Frontend
 React • Next.js • Tailwind • Redux
 
 ### Backend
-Node.js • Express • Spring Boot • REST APIs
+Node.js • Express • Spring Boot • Fast Api • REST APIs
 
 ### Databases
 PostgreSQL • MongoDB
@@ -105,7 +105,3 @@ LeetCode → https://leetcode.com/u/fazlul_karim
 Portfolio → https://fazlul.vercel.app  
 
 ---
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=FazlulKarimC&layout=compact)
