@@ -28,6 +28,21 @@ Currently deepening expertise in:
 
 ## Projects
 
+### LlmForge — LLM Reasoning Evaluation Platform
+Full-stack experimentation platform for systematically evaluating LLM reasoning strategies.
+
+**Highlights**
+- Compare Naive Prompting, Chain-of-Thought, RAG, and ReAct agents side-by-side
+- Research-grade evaluation with accuracy, latency, cost, and statistical significance testing
+- Interactive dashboard with per-sample inspection, latency distributions, and output diffs
+- Multi-provider inference routing (HuggingFace, OpenRouter, Groq, OpenAI-compatible)
+
+Stack: FastAPI, Python, Next.js, React, TypeScript, PostgreSQL, Redis, Qdrant
+
+🔗 https://papersight.vercel.app
+
+---
+
 ### PaperSight AI — Document Intelligence Platform
 AI-powered platform converting PDFs into interactive summaries.
 
@@ -38,7 +53,7 @@ AI-powered platform converting PDFs into interactive summaries.
 
 Stack: Next.js, TypeScript, LangChain, PostgreSQL
 
-🔗 https://papersight.vercel.app
+🔗 https://llmforge.vercel.app
 
 ---
 
