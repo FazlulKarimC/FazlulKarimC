@@ -1,7 +1,7 @@
 # Fazlul Karim Choudhury
-### Full-Stack Software Engineer | Scalable Systems Builder
+### AI Full-Stack Software Engineer | Scalable Systems Builder
 
-Software engineer focused on building scalable, production-grade web platforms and AI-enabled systems.
+AI Software engineer focused on building scalable, production-grade web platforms and AI-enabled systems.
 
 I enjoy designing systems that handle real users, real traffic, and real business problems.
 
@@ -39,7 +39,7 @@ Full-stack experimentation platform for systematically evaluating LLM reasoning 
 
 Stack: FastAPI, Python, Next.js, React, TypeScript, PostgreSQL, Redis, Qdrant
 
-🔗 https://papersight.vercel.app
+🔗 https://llmforge.vercel.app
 
 ---
 
@@ -53,7 +53,7 @@ AI-powered platform converting PDFs into interactive summaries.
 
 Stack: Next.js, TypeScript, LangChain, PostgreSQL
 
-🔗 https://llmforge.vercel.app
+🔗 https://papersight.vercel.app
 
 ---
 
